@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I am Muhammad Farhan Azam 👋
 
 <!--
 **farhan26azam/farhan26azam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
