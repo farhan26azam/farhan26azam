@@ -16,7 +16,7 @@
 
 <h3 align="left">Badges</h3>
 <p align="left>
-  <a href="https://www.credly.com/badges/69243617-7cf0-407d-83d2-cebf177df424/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/482f703c-e221-4667-91e6-4322c3210bc0/image.png" alt="NodeBadge" width="40" height="40"/> </a>
+  <a href="https://www.credly.com/badges/69243617-7cf0-407d-83d2-cebf177df424/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/340x340/images/482f703c-e221-4667-91e6-4322c3210bc0/image.png" alt="NodeBadge" width="120" height="120"/> </a>
   </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan26azam&show_icons=true&locale=en&layout=compact" alt="farhan26azam" /></p>
