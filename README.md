@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Farhan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate frontend developer with expertise in React JS, React Native and MERN Applications</h3>
 
 <h3 align="left">Skills:</h3>
 <p align="left"> 
