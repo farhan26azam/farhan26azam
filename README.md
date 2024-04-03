@@ -25,7 +25,7 @@
 
 - 👨‍💻 All of my projects are available at [muhammadfarhanazam.netlify.app](muhammadfarhanazam.netlify.app)
 
-- 💬 Ask me about **react, javascript, c++, python**
+- 💬 Ask me about **java, javascript, c++, python**
 
 - 📫 How to reach me **farhan26azam@gmail.com**
 
