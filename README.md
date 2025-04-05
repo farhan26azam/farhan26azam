@@ -19,7 +19,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhan26azam" alt="farhan26azam" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [muhammadfarhanazam.netlify.app](muhammadfarhanazam.com)
+- 👨‍💻 All of my projects are available at [muhammadfarhanazam.com](https://muhammadfarhanazam.com)
 
 - 💬 Ask me about **java, javascript, c++, python**
 
